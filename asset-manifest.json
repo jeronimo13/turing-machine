@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turing-machine/static/css/main.2987c21e.chunk.css",
+    "main.js": "/turing-machine/static/js/main.d03938cb.chunk.js",
+    "main.js.map": "/turing-machine/static/js/main.d03938cb.chunk.js.map",
+    "runtime-main.js": "/turing-machine/static/js/runtime-main.3cdf5924.js",
+    "runtime-main.js.map": "/turing-machine/static/js/runtime-main.3cdf5924.js.map",
+    "static/js/2.2c562286.chunk.js": "/turing-machine/static/js/2.2c562286.chunk.js",
+    "static/js/2.2c562286.chunk.js.map": "/turing-machine/static/js/2.2c562286.chunk.js.map",
+    "index.html": "/turing-machine/index.html",
+    "precache-manifest.1471633bf8c90574a148208f42ba229a.js": "/turing-machine/precache-manifest.1471633bf8c90574a148208f42ba229a.js",
+    "service-worker.js": "/turing-machine/service-worker.js",
+    "static/css/main.2987c21e.chunk.css.map": "/turing-machine/static/css/main.2987c21e.chunk.css.map",
+    "static/js/2.2c562286.chunk.js.LICENSE.txt": "/turing-machine/static/js/2.2c562286.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cdf5924.js",
+    "static/js/2.2c562286.chunk.js",
+    "static/css/main.2987c21e.chunk.css",
+    "static/js/main.d03938cb.chunk.js"
+  ]
+}
